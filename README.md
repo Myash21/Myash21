@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **end to end projects**
 
-- 👨‍💻 All of my projects are available at [https://myash21.github.io/portfolio.github.io/](https://yash-mhaskar-w99h.vercel.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@yashmhaskar21](https://medium.com/@yashmhaskar21)
 
 - 📫 How to reach me **myash100@gmail.com**
