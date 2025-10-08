@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Mhaskar</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
-- 🌱 I’m currently learning **LLM's, chatbots**
+- 🌱 I’m currently learning **RAG, AI Agents**
 
 - 👯 I’m looking to collaborate on **end to end projects**
 
