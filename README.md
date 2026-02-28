@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Mhaskar</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">A Software Engineer with hands-on experience building end-to-end backend and AI-powered systems, from API design and data handling to integrating ML/LLM pipelines and deploying production services.  My strengths lie at the intersection of backend engineering and applied AI, with a focus on clean architecture, reliability, and real-world problem solving.</h3>
 
 - 🌱 I’m currently learning **RAG, AI Agents**
 
